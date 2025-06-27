@@ -1,0 +1,100 @@
+source,target,weight
+Flemington Station,Homebush Station,879
+Flemington Station,Lidcombe Station,1983
+Flemington Station,Strathfield Station,1193
+Epping Station,Strathfield Station,769
+Town Hall Station,Wynyard Station,6530
+Town Hall Station,Central Station,9580
+Town Hall Station,Martin Place Station,2804
+Newtown Station,Macdonaldtown Station,1427
+Newtown Station,Ashfield Station,963
+Newtown Station,Redfern Station,1033
+St James Station,Museum Station,3186
+St James Station,Circular Quay Station,3476
+Croydon Station,Ashfield Station,1405
+Croydon Station,Burwood Station,1407
+Parramatta Station,Lidcombe Station,1122
+Parramatta Station,Strathfield Station,847
+Parramatta Station,Central Station,134
+Glenfield Station,Central Station,117
+Central Station,Town Hall Station,9334
+Central Station,Green Square Station,2202
+Central Station,Museum Station,3477
+Central Station,Redfern Station,11041
+Central Station,Burwood Station,171
+Central Station,Strathfield Station,1156
+Central Station,Sydenham Station,2
+Central Station,Wolli Creek Station,4
+Central Station,Glenfield Station,114
+Central Station,Parramatta Station,134
+Sydenham Station,St Peters Station,1366
+Sydenham Station,Revesby Station,166
+Sydenham Station,Redfern Station,1736
+Sydenham Station,Wolli Creek Station,880
+Mascot Station,Green Square Station,2268
+Mascot Station,Wolli Creek Station,1
+Wynyard Station,Circular Quay Station,3186
+Wynyard Station,Town Hall Station,6758
+Ashfield Station,Croydon Station,1407
+Ashfield Station,Burwood Station,1563
+Ashfield Station,Newtown Station,904
+Ashfield Station,Redfern Station,528
+St Peters Station,Erskineville Station,1366
+St Peters Station,Sydenham Station,1326
+Green Square Station,Mascot Station,2202
+Green Square Station,Central Station,2268
+Lidcombe Station,Flemington Station,2072
+Lidcombe Station,Strathfield Station,1887
+Lidcombe Station,Parramatta Station,1152
+Lidcombe Station,Olympic Park Station,1472
+Lidcombe Station,Homebush Station,357
+Burwood Station,Croydon Station,1405
+Burwood Station,Strathfield Station,4389
+Burwood Station,Ashfield Station,1569
+Burwood Station,Central Station,179
+Burwood Station,Redfern Station,1323
+Rhodes Station,Strathfield Station,179
+Erskineville Station,Redfern Station,1366
+Erskineville Station,St Peters Station,1326
+Erskineville Station,Wolli Creek Station,3
+Martin Place Station,Town Hall Station,2822
+Strathfield Station,Burwood Station,4476
+Strathfield Station,Homebush Station,1784
+Strathfield Station,Flemington Station,1187
+Strathfield Station,North Strathfield Station,1381
+Strathfield Station,Lidcombe Station,1897
+Strathfield Station,Redfern Station,2458
+Strathfield Station,Rhodes Station,171
+Strathfield Station,Parramatta Station,824
+Strathfield Station,Ashfield Station,22
+Strathfield Station,Central Station,1047
+Strathfield Station,Epping Station,801
+Strathfield Station,Olympic Park Station,1
+Redfern Station,Central Station,11084
+Redfern Station,Macdonaldtown Station,1373
+Redfern Station,Ashfield Station,511
+Redfern Station,Newtown Station,1096
+Redfern Station,Burwood Station,1248
+Redfern Station,Strathfield Station,2407
+Redfern Station,Erskineville Station,1329
+Redfern Station,Wolli Creek Station,1103
+Redfern Station,Sydenham Station,1644
+Museum Station,Central Station,3186
+Museum Station,St James Station,3476
+Museum Station,Circular Quay Station,1
+Wolli Creek Station,Revesby Station,866
+Wolli Creek Station,Redfern Station,928
+Wolli Creek Station,Sydenham Station,1056
+Wolli Creek Station,Mascot Station,1
+Circular Quay Station,St James Station,3186
+Circular Quay Station,Wynyard Station,3477
+Olympic Park Station,Lidcombe Station,1483
+Olympic Park Station,Strathfield Station,3
+North Strathfield Station,Strathfield Station,1388
+Macdonaldtown Station,Redfern Station,1427
+Macdonaldtown Station,Newtown Station,1373
+Revesby Station,Wolli Creek Station,910
+Revesby Station,Sydenham Station,104
+Homebush Station,Strathfield Station,1793
+Homebush Station,Flemington Station,796
+Homebush Station,Lidcombe Station,392

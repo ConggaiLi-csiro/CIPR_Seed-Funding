@@ -1,0 +1,793 @@
+source,target,weight
+Homebush Station,Strathfield Station,1793
+Homebush Station,Flemington Station,796
+Homebush Station,Lidcombe Station,392
+Strathfield Station,Burwood Station,4476
+Strathfield Station,Homebush Station,1784
+Strathfield Station,Flemington Station,1187
+Strathfield Station,North Strathfield Station,1381
+Strathfield Station,Lidcombe Station,1897
+Strathfield Station,Redfern Station,2458
+Strathfield Station,Rhodes Station,171
+Strathfield Station,Parramatta Station,824
+Strathfield Station,Ashfield Station,22
+Strathfield Station,Central Station,1047
+Strathfield Station,Epping Station,801
+Strathfield Station,Olympic Park Station,1
+Burwood Station,Croydon Station,1405
+Burwood Station,Strathfield Station,4389
+Burwood Station,Ashfield Station,1569
+Burwood Station,Central Station,179
+Burwood Station,Redfern Station,1323
+Croydon Station,Ashfield Station,1405
+Croydon Station,Burwood Station,1407
+Ashfield Station,Summer Hill Station,1472
+Ashfield Station,Croydon Station,1407
+Ashfield Station,Burwood Station,1563
+Ashfield Station,Petersham Station,84
+Ashfield Station,Newtown Station,904
+Ashfield Station,Redfern Station,528
+Summer Hill Station,Lewisham Station,1472
+Summer Hill Station,Ashfield Station,1464
+Lewisham Station,Petersham Station,1427
+Lewisham Station,Summer Hill Station,1464
+Lewisham Station,Newtown Station,45
+Petersham Station,Stanmore Station,1511
+Petersham Station,Lewisham Station,1373
+Petersham Station,Ashfield Station,42
+Stanmore Station,Newtown Station,1511
+Stanmore Station,Petersham Station,1415
+Newtown Station,Macdonaldtown Station,1427
+Newtown Station,Stanmore Station,1415
+Newtown Station,Ashfield Station,963
+Newtown Station,Redfern Station,1033
+Newtown Station,Lewisham Station,91
+Macdonaldtown Station,Redfern Station,1427
+Macdonaldtown Station,Newtown Station,1373
+Redfern Station,Central Station,11084
+Redfern Station,Macdonaldtown Station,1373
+Redfern Station,Ashfield Station,511
+Redfern Station,Newtown Station,1096
+Redfern Station,Burwood Station,1248
+Redfern Station,Strathfield Station,2407
+Redfern Station,Erskineville Station,1329
+Redfern Station,Wolli Creek Station,1103
+Redfern Station,Sydenham Station,1644
+Central Station,Town Hall Station,9334
+Central Station,Green Square Station,2202
+Central Station,Museum Station,3477
+Central Station,Redfern Station,11041
+Central Station,Burwood Station,171
+Central Station,Strathfield Station,1156
+Central Station,Sydenham Station,2
+Central Station,Wolli Creek Station,4
+Central Station,Glenfield Station,114
+Central Station,Parramatta Station,134
+Parramatta Station,Harris Park Station,1771
+Parramatta Station,Westmead Station,2788
+Parramatta Station,Lidcombe Station,1122
+Parramatta Station,Strathfield Station,847
+Parramatta Station,Seven Hills Station,192
+Parramatta Station,Granville Station,268
+Parramatta Station,Blacktown Station,538
+Parramatta Station,Central Station,134
+Parramatta Station,Penrith Station,74
+Harris Park Station,Granville Station,1192
+Harris Park Station,Parramatta Station,1725
+Harris Park Station,Merrylands Station,579
+Granville Station,Clyde Station,1824
+Granville Station,Harris Park Station,1149
+Granville Station,Merrylands Station,1206
+Granville Station,Auburn Station,730
+Granville Station,Parramatta Station,286
+Granville Station,Lidcombe Station,106
+Granville Station,Strathfield Station,1
+Clyde Station,Auburn Station,1824
+Clyde Station,Granville Station,1841
+Auburn Station,Lidcombe Station,2554
+Auburn Station,Clyde Station,1841
+Auburn Station,Granville Station,649
+Lidcombe Station,Flemington Station,2072
+Lidcombe Station,Berala Station,1189
+Lidcombe Station,Auburn Station,2490
+Lidcombe Station,Strathfield Station,1887
+Lidcombe Station,Parramatta Station,1152
+Lidcombe Station,Olympic Park Station,1472
+Lidcombe Station,Granville Station,108
+Lidcombe Station,Homebush Station,357
+Flemington Station,Homebush Station,879
+Flemington Station,Lidcombe Station,1983
+Flemington Station,Strathfield Station,1193
+Town Hall Station,Wynyard Station,6530
+Town Hall Station,Central Station,9580
+Town Hall Station,Martin Place Station,2804
+Wynyard Station,Circular Quay Station,3186
+Wynyard Station,Town Hall Station,6758
+Wynyard Station,Milsons Point Station,3356
+Circular Quay Station,St James Station,3186
+Circular Quay Station,Wynyard Station,3477
+St James Station,Museum Station,3186
+St James Station,Circular Quay Station,3476
+Museum Station,Central Station,3186
+Museum Station,St James Station,3476
+Museum Station,Circular Quay Station,1
+Green Square Station,Mascot Station,2202
+Green Square Station,Central Station,2268
+Mascot Station,Domestic Airport Station,2201
+Mascot Station,Green Square Station,2268
+Mascot Station,Wolli Creek Station,1
+Domestic Airport Station,International Airport Station,2201
+Domestic Airport Station,Mascot Station,2267
+International Airport Station,Wolli Creek Station,2201
+International Airport Station,Domestic Airport Station,2267
+Wolli Creek Station,Turrella Station,1315
+Wolli Creek Station,International Airport Station,2267
+Wolli Creek Station,Revesby Station,866
+Wolli Creek Station,Redfern Station,928
+Wolli Creek Station,Sydenham Station,1056
+Wolli Creek Station,Hurstville Station,1119
+Wolli Creek Station,Arncliffe Station,1000
+Wolli Creek Station,Tempe Station,1023
+Wolli Creek Station,Rockdale Station,881
+Wolli Creek Station,Riverwood Station,21
+Wolli Creek Station,Mascot Station,1
+Turrella Station,Bardwell Park Station,1307
+Turrella Station,Wolli Creek Station,1302
+Bardwell Park Station,Bexley North Station,1307
+Bardwell Park Station,Turrella Station,1298
+Bexley North Station,Kingsgrove Station,1307
+Bexley North Station,Bardwell Park Station,1298
+Kingsgrove Station,Beverly Hills Station,1307
+Kingsgrove Station,Bexley North Station,1298
+Beverly Hills Station,Narwee Station,1307
+Beverly Hills Station,Kingsgrove Station,1298
+Narwee Station,Riverwood Station,1307
+Narwee Station,Beverly Hills Station,1298
+Riverwood Station,Padstow Station,1328
+Riverwood Station,Narwee Station,1298
+Riverwood Station,Wolli Creek Station,56
+Padstow Station,Revesby Station,1307
+Padstow Station,Riverwood Station,1354
+Padstow Station,Holsworthy Station,21
+Revesby Station,Panania Station,1327
+Revesby Station,Wolli Creek Station,910
+Revesby Station,Padstow Station,1298
+Revesby Station,Holsworthy Station,60
+Revesby Station,Sydenham Station,104
+Panania Station,East Hills Station,1327
+Panania Station,Revesby Station,1297
+East Hills Station,Holsworthy Station,1322
+East Hills Station,Panania Station,1297
+Holsworthy Station,Glenfield Station,1403
+Holsworthy Station,East Hills Station,1292
+Holsworthy Station,Revesby Station,47
+Holsworthy Station,Padstow Station,56
+Glenfield Station,Macquarie Fields Station,1264
+Glenfield Station,Holsworthy Station,1395
+Glenfield Station,Edmondson Park Station,1645
+Glenfield Station,Casula Station,1510
+Glenfield Station,Central Station,117
+Glenfield Station,Campbelltown Station,114
+Macquarie Fields Station,Ingleburn Station,1264
+Macquarie Fields Station,Glenfield Station,1253
+Ingleburn Station,Minto Station,1264
+Ingleburn Station,Macquarie Fields Station,1253
+Minto Station,Leumeah Station,1264
+Minto Station,Ingleburn Station,1253
+Leumeah Station,Campbelltown Station,1264
+Leumeah Station,Minto Station,1253
+Campbelltown Station,Macarthur Station,2954
+Campbelltown Station,Leumeah Station,1253
+Campbelltown Station,Central Station,2
+Campbelltown Station,Glenfield Station,117
+Macarthur Station,Campbelltown Station,3052
+Macarthur Station,Menangle Park Station,1756
+Berala Station,Regents Park Station,1189
+Berala Station,Lidcombe Station,1177
+Regents Park Station,Sefton Station,667
+Regents Park Station,Berala Station,1177
+Regents Park Station,Birrong Station,522
+Sefton Station,Chester Hill Station,667
+Sefton Station,Regents Park Station,660
+Chester Hill Station,Leightonfield Station,667
+Chester Hill Station,Sefton Station,660
+Leightonfield Station,Villawood Station,667
+Leightonfield Station,Chester Hill Station,660
+Villawood Station,Carramar Station,667
+Villawood Station,Leightonfield Station,660
+Carramar Station,Cabramatta Station,667
+Carramar Station,Villawood Station,660
+Cabramatta Station,Warwick Farm Station,2285
+Cabramatta Station,Carramar Station,660
+Cabramatta Station,Canley Vale Station,1617
+Cabramatta Station,Fairfield Station,2
+Warwick Farm Station,Liverpool Station,2285
+Warwick Farm Station,Cabramatta Station,2277
+Liverpool Station,Warwick Farm Station,2277
+Liverpool Station,Casula Station,1504
+Liverpool Station,Cabramatta Station,2
+Merrylands Station,Guildford Station,1785
+Merrylands Station,Granville Station,1205
+Merrylands Station,Harris Park Station,576
+Guildford Station,Yennora Station,1785
+Guildford Station,Merrylands Station,1781
+Yennora Station,Fairfield Station,1785
+Yennora Station,Guildford Station,1781
+Fairfield Station,Canley Vale Station,1618
+Fairfield Station,Yennora Station,1781
+Fairfield Station,Granville Station,2
+Canley Vale Station,Cabramatta Station,1618
+Canley Vale Station,Fairfield Station,1617
+Casula Station,Glenfield Station,1504
+Casula Station,Liverpool Station,1510
+Edmondson Park Station,Leppington Station,1645
+Edmondson Park Station,Glenfield Station,1652
+Leppington Station,Edmondson Park Station,1652
+Gordon Station,Killara Station,2363
+Gordon Station,Pymble Station,1667
+Gordon Station,Turramurra Station,38
+Gordon Station,Hornsby Station,47
+Gordon Station,Chatswood Station,131
+Killara Station,Lindfield Station,2363
+Killara Station,Gordon Station,2366
+Lindfield Station,Roseville Station,2707
+Lindfield Station,Killara Station,2366
+Roseville Station,Chatswood Station,2707
+Roseville Station,Lindfield Station,2713
+Chatswood Station,Artarmon Station,2838
+Chatswood Station,Roseville Station,2713
+Chatswood Station,Gordon Station,160
+Artarmon Station,St Leonards Station,2838
+Artarmon Station,Chatswood Station,2882
+St Leonards Station,Wollstonecraft Station,2838
+St Leonards Station,Artarmon Station,2882
+Wollstonecraft Station,Waverton Station,2838
+Wollstonecraft Station,St Leonards Station,2882
+Waverton Station,North Sydney Station,2838
+Waverton Station,Wollstonecraft Station,2882
+North Sydney Station,Milsons Point Station,3292
+North Sydney Station,Waverton Station,2882
+Milsons Point Station,Wynyard Station,3292
+Milsons Point Station,North Sydney Station,3356
+Hornsby Station,Waitara Station,1678
+Hornsby Station,Normanhurst Station,1383
+Hornsby Station,Asquith Station,982
+Hornsby Station,Epping Station,769
+Hornsby Station,Woy Woy Station,361
+Hornsby Station,Berowra Station,415
+Hornsby Station,Gordon Station,45
+Waitara Station,Wahroonga Station,1678
+Waitara Station,Hornsby Station,1705
+Wahroonga Station,Warrawee Station,1678
+Wahroonga Station,Waitara Station,1667
+Warrawee Station,Turramurra Station,1678
+Warrawee Station,Wahroonga Station,1667
+Turramurra Station,Pymble Station,1678
+Turramurra Station,Warrawee Station,1667
+Turramurra Station,Waitara Station,38
+Pymble Station,Gordon Station,1678
+Pymble Station,Turramurra Station,1667
+North Strathfield Station,Concord West Station,1381
+North Strathfield Station,Strathfield Station,1388
+Concord West Station,Rhodes Station,1381
+Concord West Station,North Strathfield Station,1388
+Rhodes Station,Meadowbank Station,1505
+Rhodes Station,Strathfield Station,179
+Rhodes Station,West Ryde Station,47
+Rhodes Station,Concord West Station,1388
+Meadowbank Station,West Ryde Station,1505
+Meadowbank Station,Rhodes Station,1469
+West Ryde Station,Denistone Station,1381
+West Ryde Station,Meadowbank Station,1469
+West Ryde Station,Eastwood Station,171
+West Ryde Station,Rhodes Station,98
+Denistone Station,Eastwood Station,1381
+Denistone Station,West Ryde Station,1388
+Eastwood Station,Epping Station,1541
+Eastwood Station,West Ryde Station,179
+Eastwood Station,Denistone Station,1388
+Epping Station,Cheltenham Station,1402
+Epping Station,Eastwood Station,1567
+Epping Station,Strathfield Station,769
+Epping Station,Hornsby Station,801
+Cheltenham Station,Beecroft Station,1402
+Cheltenham Station,Epping Station,1383
+Beecroft Station,Pennant Hills Station,1402
+Beecroft Station,Cheltenham Station,1383
+Pennant Hills Station,Thornleigh Station,1402
+Pennant Hills Station,Beecroft Station,1383
+Thornleigh Station,Normanhurst Station,1402
+Thornleigh Station,Pennant Hills Station,1383
+Normanhurst Station,Hornsby Station,1402
+Normanhurst Station,Thornleigh Station,1383
+Westmead Station,Wentworthville Station,1459
+Westmead Station,Parramatta Station,2742
+Westmead Station,Seven Hills Station,1265
+Westmead Station,Blacktown Station,4
+Westmead Station,Penrith Station,60
+Wentworthville Station,Pendle Hill Station,1459
+Wentworthville Station,Westmead Station,1408
+Pendle Hill Station,Toongabbie Station,1459
+Pendle Hill Station,Wentworthville Station,1408
+Toongabbie Station,Seven Hills Station,1459
+Toongabbie Station,Pendle Hill Station,1408
+Seven Hills Station,Blacktown Station,2916
+Seven Hills Station,Westmead Station,1270
+Seven Hills Station,Toongabbie Station,1408
+Seven Hills Station,Parramatta Station,222
+Blacktown Station,Doonside Station,1642
+Blacktown Station,Seven Hills Station,2902
+Blacktown Station,Marayong Station,1146
+Blacktown Station,Parramatta Station,534
+Blacktown Station,Penrith Station,542
+Blacktown Station,Westmead Station,4
+Doonside Station,Rooty Hill Station,1642
+Doonside Station,Blacktown Station,1667
+Rooty Hill Station,Mount Druitt Station,1642
+Rooty Hill Station,Doonside Station,1667
+Mount Druitt Station,St Marys Station,1642
+Mount Druitt Station,Rooty Hill Station,1667
+St Marys Station,Werrington Station,1642
+St Marys Station,Mount Druitt Station,1667
+Werrington Station,Kingswood Station,1642
+Werrington Station,St Marys Station,1667
+Kingswood Station,Penrith Station,1642
+Kingswood Station,Werrington Station,1667
+Penrith Station,Kingswood Station,1667
+Penrith Station,Emu Plains Station,1055
+Penrith Station,Blacktown Station,543
+Penrith Station,Parramatta Station,74
+Penrith Station,Westmead Station,60
+Penrith Station,Springwood Station,138
+Asquith Station,Mount Colah Station,947
+Asquith Station,Hornsby Station,1022
+Asquith Station,Berowra Station,35
+Mount Colah Station,Mount Kuring-gai Station,947
+Mount Colah Station,Asquith Station,1005
+Mount Kuring-gai Station,Berowra Station,947
+Mount Kuring-gai Station,Mount Colah Station,1005
+Berowra Station,Mount Kuring-gai Station,1005
+Berowra Station,Cowan Station,473
+Berowra Station,Hornsby Station,429
+Berowra Station,Woy Woy Station,12
+Berowra Station,Asquith Station,11
+Marayong Station,Quakers Hill Station,1146
+Marayong Station,Blacktown Station,1157
+Quakers Hill Station,Schofields Station,1146
+Quakers Hill Station,Marayong Station,1154
+Schofields Station,Quakers Hill Station,1154
+Schofields Station,Blacktown Station,1
+Schofields Station,Riverstone Station,667
+Schofields Station,Marayong Station,3
+Sydenham Station,St Peters Station,1366
+Sydenham Station,Revesby Station,166
+Sydenham Station,Redfern Station,1736
+Sydenham Station,Tempe Station,1010
+Sydenham Station,Wolli Creek Station,880
+St Peters Station,Erskineville Station,1366
+St Peters Station,Sydenham Station,1326
+Erskineville Station,Redfern Station,1366
+Erskineville Station,St Peters Station,1326
+Erskineville Station,Wolli Creek Station,3
+Olympic Park Station,Lidcombe Station,1483
+Olympic Park Station,Strathfield Station,3
+Emu Plains Station,Penrith Station,1126
+Emu Plains Station,Lapstone Station,492
+Emu Plains Station,Glenbrook Station,57
+Riverstone Station,Vineyard Station,667
+Riverstone Station,Schofields Station,669
+Vineyard Station,Mulgrave Station,667
+Vineyard Station,Riverstone Station,669
+Mulgrave Station,Windsor Station,667
+Mulgrave Station,Vineyard Station,669
+Windsor Station,Clarendon Station,667
+Windsor Station,Mulgrave Station,669
+Clarendon Station,East Richmond Station,667
+Clarendon Station,Windsor Station,669
+East Richmond Station,Richmond Station,667
+East Richmond Station,Clarendon Station,669
+Richmond Station,East Richmond Station,669
+Newcastle Interchange,Hamilton Station,1366
+Hamilton Station,Broadmeadow Station,646
+Hamilton Station,Newcastle Interchange,1403
+Hamilton Station,Waratah Station,3633
+Broadmeadow Station,Adamstown Station,388
+Broadmeadow Station,Hamilton Station,655
+Broadmeadow Station,Cardiff Station,258
+Adamstown Station,Kotara Station,388
+Adamstown Station,Broadmeadow Station,450
+Kotara Station,Cardiff Station,388
+Kotara Station,Adamstown Station,450
+Cardiff Station,Cockle Creek Station,388
+Cardiff Station,Kotara Station,450
+Cardiff Station,Fassifern Station,258
+Cardiff Station,Broadmeadow Station,205
+Cockle Creek Station,Teralba Station,388
+Cockle Creek Station,Cardiff Station,450
+Teralba Station,Booragul Station,388
+Teralba Station,Cockle Creek Station,450
+Booragul Station,Fassifern Station,388
+Booragul Station,Teralba Station,450
+Fassifern Station,Awaba Station,374
+Fassifern Station,Booragul Station,450
+Fassifern Station,Morisset Station,272
+Fassifern Station,Cardiff Station,205
+Awaba Station,Dora Creek Station,374
+Awaba Station,Fassifern Station,450
+Dora Creek Station,Morisset Station,374
+Dora Creek Station,Awaba Station,450
+Morisset Station,Wyee Station,474
+Morisset Station,Dora Creek Station,450
+Morisset Station,Fassifern Station,205
+Morisset Station,Wyong Station,193
+Wyee Station,Warnervale Station,434
+Wyee Station,Morisset Station,546
+Wyee Station,Wyong Station,40
+Warnervale Station,Wyong Station,434
+Warnervale Station,Wyee Station,500
+Wyong Station,Tuggerah Station,899
+Wyong Station,Warnervale Station,500
+Wyong Station,Wyee Station,46
+Wyong Station,Morisset Station,132
+Tuggerah Station,Ourimbah Station,539
+Tuggerah Station,Wyong Station,873
+Tuggerah Station,Gosford Station,360
+Ourimbah Station,Lisarow Station,512
+Ourimbah Station,Tuggerah Station,571
+Ourimbah Station,Narara Station,27
+Lisarow Station,Niagara Park Station,512
+Lisarow Station,Ourimbah Station,571
+Niagara Park Station,Narara Station,512
+Niagara Park Station,Lisarow Station,571
+Narara Station,Gosford Station,539
+Narara Station,Niagara Park Station,571
+Gosford Station,Point Clare Station,438
+Gosford Station,Narara Station,571
+Gosford Station,Woy Woy Station,379
+Gosford Station,Tuggerah Station,302
+Point Clare Station,Tascott Station,438
+Point Clare Station,Gosford Station,474
+Tascott Station,Koolewong Station,438
+Tascott Station,Point Clare Station,474
+Koolewong Station,Woy Woy Station,438
+Koolewong Station,Tascott Station,474
+Woy Woy Station,Hawkesbury River Station,68
+Woy Woy Station,Koolewong Station,474
+Woy Woy Station,Hornsby Station,355
+Woy Woy Station,Gosford Station,372
+Woy Woy Station,Wondabyne Station,350
+Woy Woy Station,Berowra Station,38
+Woy Woy Station,Asquith Station,6
+Hawkesbury River Station,Cowan Station,418
+Hawkesbury River Station,Woy Woy Station,113
+Hawkesbury River Station,Wondabyne Station,360
+Cowan Station,Berowra Station,416
+Cowan Station,Hawkesbury River Station,473
+Cowan Station,Hornsby Station,2
+Wondabyne Station,Hawkesbury River Station,350
+Wondabyne Station,Woy Woy Station,360
+Wollongong Station,North Wollongong Station,803
+Wollongong Station,Coniston Station,866
+Wollongong Station,Kiama Station,54
+North Wollongong Station,Fairy Meadow Station,393
+North Wollongong Station,Wollongong Station,817
+North Wollongong Station,Thirroul Station,410
+Fairy Meadow Station,Towradgi Station,393
+Fairy Meadow Station,North Wollongong Station,425
+Towradgi Station,Corrimal Station,393
+Towradgi Station,Fairy Meadow Station,425
+Corrimal Station,Bellambi Station,393
+Corrimal Station,Towradgi Station,425
+Bellambi Station,Woonona Station,393
+Bellambi Station,Corrimal Station,425
+Woonona Station,Bulli Station,393
+Woonona Station,Bellambi Station,425
+Bulli Station,Thirroul Station,393
+Bulli Station,Woonona Station,425
+Thirroul Station,Austinmer Station,321
+Thirroul Station,Helensburgh Station,338
+Thirroul Station,North Wollongong Station,392
+Thirroul Station,Bulli Station,425
+Austinmer Station,Coledale Station,282
+Austinmer Station,Thirroul Station,354
+Austinmer Station,Helensburgh Station,39
+Coledale Station,Wombarra Station,282
+Coledale Station,Austinmer Station,334
+Wombarra Station,Scarborough Station,282
+Wombarra Station,Coledale Station,334
+Scarborough Station,Coalcliff Station,282
+Scarborough Station,Wombarra Station,334
+Coalcliff Station,Stanwell Park Station,282
+Coalcliff Station,Scarborough Station,334
+Stanwell Park Station,Otford Station,282
+Stanwell Park Station,Coalcliff Station,334
+Stanwell Park Station,Austinmer Station,6
+Otford Station,Helensburgh Station,282
+Otford Station,Stanwell Park Station,334
+Helensburgh Station,Waterfall Station,337
+Helensburgh Station,Otford Station,334
+Helensburgh Station,Heathcote Station,14
+Helensburgh Station,Stanwell Park Station,6
+Helensburgh Station,Thirroul Station,295
+Helensburgh Station,Sutherland Station,318
+Helensburgh Station,Austinmer Station,14
+Waterfall Station,Sutherland Station,156
+Waterfall Station,Heathcote Station,739
+Waterfall Station,Helensburgh Station,403
+Sutherland Station,Hurstville Station,512
+Sutherland Station,Jannali Station,1421
+Sutherland Station,Waterfall Station,169
+Sutherland Station,Oatley Station,65
+Sutherland Station,Helensburgh Station,256
+Sutherland Station,Loftus Station,797
+Sutherland Station,Redfern Station,1
+Sutherland Station,Kirrawee Station,1349
+Sutherland Station,Mortdale Station,524
+Hurstville Station,Wolli Creek Station,1121
+Hurstville Station,Sutherland Station,503
+Hurstville Station,Oatley Station,358
+Hurstville Station,Allawah Station,1256
+Hurstville Station,Kogarah Station,630
+Hurstville Station,Penshurst Station,1577
+Hurstville Station,Mortdale Station,158
+Martin Place Station,Kings Cross Station,2769
+Martin Place Station,Town Hall Station,2822
+Kings Cross Station,Edgecliff Station,2769
+Kings Cross Station,Martin Place Station,2787
+Edgecliff Station,Bondi Junction Station,2769
+Edgecliff Station,Kings Cross Station,2787
+Bondi Junction Station,Edgecliff Station,2787
+Port Kembla Station,Port Kembla North Station,330
+Port Kembla North Station,Cringila Station,330
+Port Kembla North Station,Port Kembla Station,338
+Cringila Station,Lysaghts Station,330
+Cringila Station,Port Kembla North Station,338
+Lysaghts Station,Coniston Station,330
+Lysaghts Station,Cringila Station,338
+Coniston Station,Wollongong Station,855
+Coniston Station,Lysaghts Station,338
+Coniston Station,Unanderra Station,528
+Heathcote Station,Engadine Station,753
+Heathcote Station,Waterfall Station,797
+Engadine Station,Loftus Station,739
+Engadine Station,Sutherland Station,14
+Engadine Station,Heathcote Station,797
+Loftus Station,Sutherland Station,739
+Loftus Station,Engadine Station,797
+Jannali Station,Mortdale Station,349
+Jannali Station,Oatley Station,277
+Jannali Station,Sutherland Station,1492
+Jannali Station,Como Station,795
+Mortdale Station,Penshurst Station,1588
+Mortdale Station,Oatley Station,811
+Mortdale Station,Jannali Station,312
+Mortdale Station,Sutherland Station,607
+Mortdale Station,Hurstville Station,166
+Mortdale Station,Como Station,6
+Penshurst Station,Hurstville Station,1588
+Penshurst Station,Mortdale Station,1572
+Penshurst Station,Oatley Station,5
+Oatley Station,Hurstville Station,330
+Oatley Station,Mortdale Station,807
+Oatley Station,Como Station,813
+Oatley Station,Jannali Station,361
+Tempe Station,Wolli Creek Station,1010
+Tempe Station,Sydenham Station,1023
+Arncliffe Station,Banksia Station,1000
+Arncliffe Station,Wolli Creek Station,1023
+Banksia Station,Rockdale Station,1000
+Banksia Station,Arncliffe Station,1023
+Rockdale Station,Kogarah Station,1881
+Rockdale Station,Banksia Station,1023
+Rockdale Station,Wolli Creek Station,863
+Kogarah Station,Carlton Station,1245
+Kogarah Station,Rockdale Station,1886
+Kogarah Station,Hurstville Station,636
+Carlton Station,Allawah Station,1245
+Carlton Station,Kogarah Station,1256
+Allawah Station,Hurstville Station,1245
+Allawah Station,Carlton Station,1256
+Como Station,Jannali Station,819
+Como Station,Oatley Station,795
+Kiama Station,Bombo Station,480
+Kiama Station,Gerringong Station,1115
+Bombo Station,Minnamurra Station,480
+Bombo Station,Kiama Station,493
+Minnamurra Station,Shellharbour Junction,480
+Minnamurra Station,Bombo Station,493
+Shellharbour Junction,Oak Flats Station,480
+Shellharbour Junction,Minnamurra Station,493
+Oak Flats Station,Albion Park Station,480
+Oak Flats Station,Shellharbour Junction,493
+Albion Park Station,Dapto Station,480
+Albion Park Station,Oak Flats Station,493
+Dapto Station,Kembla Grange Station,77
+Dapto Station,Unanderra Station,434
+Dapto Station,Albion Park Station,493
+Kembla Grange Station,Unanderra Station,77
+Kembla Grange Station,Dapto Station,87
+Unanderra Station,Coniston Station,511
+Unanderra Station,Dapto Station,441
+Unanderra Station,Kembla Grange Station,87
+Kirrawee Station,Gymea Station,1349
+Kirrawee Station,Sutherland Station,1281
+Gymea Station,Miranda Station,1349
+Gymea Station,Kirrawee Station,1281
+Miranda Station,Caringbah Station,1349
+Miranda Station,Gymea Station,1281
+Caringbah Station,Woolooware Station,1349
+Caringbah Station,Miranda Station,1281
+Woolooware Station,Cronulla Station,1349
+Woolooware Station,Caringbah Station,1281
+Cronulla Station,Woolooware Station,1281
+Bankstown Station,Yagoona Station,517
+Yagoona Station,Birrong Station,517
+Yagoona Station,Bankstown Station,522
+Birrong Station,Regents Park Station,517
+Birrong Station,Yagoona Station,522
+Gerringong Station,Berry Station,1115
+Gerringong Station,Kiama Station,1115
+Berry Station,Bomaderry Station,1115
+Berry Station,Gerringong Station,1115
+Bomaderry Station,Berry Station,1115
+Moss Vale Station,Burradoo Station,1628
+Moss Vale Station,Exeter Station,246
+Moss Vale Station,Bowral Station,130
+Burradoo Station,Bowral Station,1628
+Burradoo Station,Moss Vale Station,1756
+Bowral Station,Mittagong Station,1758
+Bowral Station,Burradoo Station,1756
+Mittagong Station,Yerrinbool Station,1628
+Mittagong Station,Bowral Station,1756
+Mittagong Station,Tahmoor Station,130
+Yerrinbool Station,Bargo Station,1628
+Yerrinbool Station,Mittagong Station,1756
+Bargo Station,Tahmoor Station,1628
+Bargo Station,Yerrinbool Station,1756
+Tahmoor Station,Picton Station,1758
+Tahmoor Station,Bargo Station,1756
+Picton Station,Douglas Park Station,1628
+Picton Station,Tahmoor Station,1756
+Picton Station,Macarthur Station,130
+Douglas Park Station,Menangle Station,1628
+Douglas Park Station,Picton Station,1756
+Menangle Station,Menangle Park Station,1628
+Menangle Station,Douglas Park Station,1756
+Menangle Park Station,Macarthur Station,1628
+Menangle Park Station,Menangle Station,1756
+Exeter Station,Bundanoon Station,246
+Exeter Station,Moss Vale Station,310
+Bundanoon Station,Penrose Station,246
+Bundanoon Station,Exeter Station,310
+Penrose Station,Wingello Station,246
+Penrose Station,Bundanoon Station,310
+Wingello Station,Tallong Station,246
+Wingello Station,Penrose Station,310
+Tallong Station,Marulan Station,246
+Tallong Station,Wingello Station,310
+Marulan Station,Goulburn Station,246
+Marulan Station,Tallong Station,310
+Goulburn Station,Marulan Station,310
+Waratah Station,Warabrook Station,3633
+Waratah Station,Hamilton Station,3766
+Warabrook Station,Sandgate Station,2148
+Warabrook Station,Waratah Station,3766
+Warabrook Station,Beresfield Station,1485
+Sandgate Station,Hexham Station,2148
+Sandgate Station,Warabrook Station,2064
+Hexham Station,Tarro Station,2148
+Hexham Station,Sandgate Station,2064
+Tarro Station,Beresfield Station,2148
+Tarro Station,Hexham Station,2064
+Beresfield Station,Thornton Station,3633
+Beresfield Station,Warabrook Station,1702
+Beresfield Station,Tarro Station,2064
+Thornton Station,Metford Station,3633
+Thornton Station,Beresfield Station,3766
+Metford Station,Victoria Street Station,3633
+Metford Station,Thornton Station,3766
+Victoria Street Station,East Maitland Station,2148
+Victoria Street Station,Metford Station,3766
+Victoria Street Station,Maitland Station,1485
+East Maitland Station,High Street Station,2148
+East Maitland Station,Victoria Street Station,2064
+High Street Station,Maitland Station,2148
+High Street Station,East Maitland Station,2064
+Maitland Station,Lochinvar Station,346
+Maitland Station,Victoria Street Station,1702
+Maitland Station,High Street Station,2064
+Maitland Station,Telarah Station,3012
+Lochinvar Station,Greta Station,346
+Lochinvar Station,Maitland Station,346
+Greta Station,Branxton Station,346
+Greta Station,Lochinvar Station,346
+Branxton Station,Singleton Station,346
+Branxton Station,Greta Station,346
+Singleton Station,Muswellbrook Station,312
+Singleton Station,Branxton Station,346
+Muswellbrook Station,Aberdeen Station,249
+Muswellbrook Station,Singleton Station,311
+Aberdeen Station,Scone Station,249
+Aberdeen Station,Muswellbrook Station,248
+Scone Station,Aberdeen Station,248
+Telarah Station,Maitland Station,3250
+Telarah Station,Mindaribba Station,393
+Mindaribba Station,Paterson Station,393
+Mindaribba Station,Telarah Station,380
+Paterson Station,Martins Creek Station,393
+Paterson Station,Mindaribba Station,380
+Paterson Station,Telarah Station,12
+Martins Creek Station,Hilldale Station,393
+Martins Creek Station,Paterson Station,392
+Hilldale Station,Wallarobba Station,393
+Hilldale Station,Martins Creek Station,392
+Wallarobba Station,Wirragulla Station,393
+Wallarobba Station,Hilldale Station,392
+Wirragulla Station,Dungog Station,393
+Wirragulla Station,Wallarobba Station,392
+Dungog Station,Wirragulla Station,392
+Lithgow Station,Zig Zag Station,193
+Lithgow Station,Bell Station,105
+Lithgow Station,Bathurst Station,149
+Lithgow Station,Rydal Station,127
+Lithgow Station,Mount Victoria Station,138
+Zig Zag Station,Bell Station,193
+Zig Zag Station,Lithgow Station,201
+Bell Station,Mount Victoria Station,298
+Bell Station,Lithgow Station,95
+Bell Station,Zig Zag Station,201
+Mount Victoria Station,Blackheath Station,450
+Mount Victoria Station,Bell Station,296
+Mount Victoria Station,Katoomba Station,138
+Mount Victoria Station,Lithgow Station,138
+Blackheath Station,Medlow Bath Station,450
+Blackheath Station,Mount Victoria Station,439
+Medlow Bath Station,Katoomba Station,450
+Medlow Bath Station,Blackheath Station,439
+Katoomba Station,Leura Station,510
+Katoomba Station,Medlow Bath Station,439
+Katoomba Station,Springwood Station,138
+Katoomba Station,Mount Victoria Station,138
+Leura Station,Wentworth Falls Station,510
+Leura Station,Katoomba Station,516
+Wentworth Falls Station,Bullaburra Station,426
+Wentworth Falls Station,Leura Station,516
+Wentworth Falls Station,Hazelbrook Station,84
+Bullaburra Station,Lawson Station,426
+Bullaburra Station,Wentworth Falls Station,459
+Lawson Station,Hazelbrook Station,426
+Lawson Station,Bullaburra Station,459
+Hazelbrook Station,Woodford Station,426
+Hazelbrook Station,Lawson Station,459
+Hazelbrook Station,Springwood Station,84
+Hazelbrook Station,Wentworth Falls Station,57
+Woodford Station,Linden Station,426
+Woodford Station,Hazelbrook Station,459
+Linden Station,Faulconbridge Station,426
+Linden Station,Woodford Station,459
+Faulconbridge Station,Springwood Station,426
+Faulconbridge Station,Linden Station,459
+Springwood Station,Valley Heights Station,459
+Springwood Station,Faulconbridge Station,459
+Springwood Station,Blaxland Station,84
+Springwood Station,Hazelbrook Station,57
+Springwood Station,Penrith Station,138
+Springwood Station,Katoomba Station,138
+Valley Heights Station,Warrimoo Station,459
+Valley Heights Station,Springwood Station,492
+Warrimoo Station,Blaxland Station,459
+Warrimoo Station,Valley Heights Station,492
+Blaxland Station,Glenbrook Station,543
+Blaxland Station,Warrimoo Station,492
+Blaxland Station,Springwood Station,57
+Glenbrook Station,Lapstone Station,459
+Glenbrook Station,Blaxland Station,549
+Glenbrook Station,Emu Plains Station,84
+Lapstone Station,Emu Plains Station,459
+Lapstone Station,Glenbrook Station,492
+Bathurst Station,Lithgow Station,148
+Bathurst Station,Tarana Station,128
+Rydal Station,Tarana Station,127
+Rydal Station,Lithgow Station,128
+Tarana Station,Bathurst Station,127
+Tarana Station,Rydal Station,128
