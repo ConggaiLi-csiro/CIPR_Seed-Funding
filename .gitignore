@@ -1,0 +1,15 @@
+# .gitignore
+*.zip
+*.docx
+*.xlsx
+*.csv
+.DS_Store
+__pycache__/
+DataSet/
+outputs/
+samples/
+DataSet/stop_times.txt
+DataSet/shapes.txt
+
+DataSet/stop_times.txt
+DataSet/shapes.txt
