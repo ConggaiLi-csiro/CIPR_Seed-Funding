@@ -3,12 +3,7 @@ import random
 import pandas as pd
 from gnn_cascading_pipeline import GNNPropagationCascadingPipeline
 
-<<<<<<< HEAD
-# === 配置 ===
-gtfs_folder = "../DataSet/"
-=======
 gtfs_folder = "./DataSet/"
->>>>>>> 7e7d846 (Initial commit)
 sample_output_dir = "./samples/"
 os.makedirs(sample_output_dir, exist_ok=True)
 
@@ -46,14 +41,7 @@ for i in range(SEED_SAMPLE_NUM):
     pd.DataFrame([
         {'station_name': n, 'init_seed': int(n in init_seeds)} for n in subG.nodes()
     ]).to_csv(os.path.join(sample_dir, "nodes.csv"), index=False)
-<<<<<<< HEAD
-    
-    # pd.DataFrame([
-    #     {'source': u, 'target': v} for u, v in subG.edges()
-    # ]).to_csv(os.path.join(sample_dir, "edges.csv"), index=False)
-=======
 
->>>>>>> 7e7d846 (Initial commit)
     pd.DataFrame([
         {'source': u, 'target': v, 'weight': subG[u][v]['weight']} for u, v in subG.edges()
     ]).to_csv(os.path.join(sample_dir, "edges.csv"), index=False)
@@ -65,10 +53,6 @@ for i in range(SEED_SAMPLE_NUM):
 
     if GENERATE_GIF:
         pos = pipeline.visualize(subG, f"sample_{i+1}")
-<<<<<<< HEAD
-        # pipeline.visualize_cascading_gif(subG, history, pos, f"sample_{i+1}")
-=======
->>>>>>> 7e7d846 (Initial commit)
         pipeline.visualize_cascading_gif(subG, history, pos, f"sample_{i+1}", initial_failed=init_seeds)
 
 

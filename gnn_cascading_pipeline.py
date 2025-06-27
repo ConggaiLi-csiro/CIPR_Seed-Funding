@@ -141,11 +141,7 @@ class GNNPropagationCascadingPipeline:
         gif_path = os.path.join(self.output_dir, f"{tag}_cascade.gif")
         ani.save(gif_path, writer='pillow', dpi=150, fps=1)
         plt.close()
-<<<<<<< HEAD
-        print(f"  ✅ GIF 已保存: {gif_path}")
-=======
         print(f"  ✅ GIF has been saved: {gif_path}")
->>>>>>> 7e7d846 (Initial commit)
 
     def visualize_cascading_gif(self, G, history, pos, tag, initial_failed):
         clean_labels = {node: node.replace(" Station", "") for node in G.nodes()}
@@ -158,19 +154,11 @@ class GNNPropagationCascadingPipeline:
             node_colors = []
             for node in G.nodes():
                 if node in initial_failed:
-<<<<<<< HEAD
-                    node_colors.append('#003399')  # 初始种子：深蓝
-                elif node in failed_total:
-                    node_colors.append('red')      # 传播失效
-                else:
-                    node_colors.append('#99ccff')  # 正常节点
-=======
                     node_colors.append('#003399')
                 elif node in failed_total:
                     node_colors.append('red')
                 else:
                     node_colors.append('#99ccff')
->>>>>>> 7e7d846 (Initial commit)
 
             nx.draw_networkx_nodes(G, pos, node_color=node_colors, node_size=400, alpha=0.9, ax=ax)
             nx.draw_networkx_edges(G, pos, ax=ax, arrows=True, arrowstyle='-|>', arrowsize=20, edge_color='gray', width=1.2, alpha=0.7)
@@ -181,22 +169,12 @@ class GNNPropagationCascadingPipeline:
             ax.set_title(f"Step {step}: {new_fail_num} new failed, {total_fail_num} total failed", fontsize=14)
             ax.axis('off')
 
-<<<<<<< HEAD
-            # 暂存单帧
-=======
->>>>>>> 7e7d846 (Initial commit)
             frame_path = os.path.join(self.output_dir, f"{tag}_frame_{step}.png")
             plt.savefig(frame_path, dpi=150)
             plt.close()
             frames.append(imageio.imread(frame_path))
-<<<<<<< HEAD
-            os.remove(frame_path)  # 可选: 删除中间图片文件
-
-        # 最终合成 GIF
-=======
             os.remove(frame_path)
 
->>>>>>> 7e7d846 (Initial commit)
         gif_path = os.path.join(self.output_dir, f"{tag}_cascade.gif")
         imageio.mimsave(gif_path, frames, duration=800)
         print(f"✅ GIF saved: {gif_path}")
@@ -204,14 +182,8 @@ class GNNPropagationCascadingPipeline:
 
         
 
-<<<<<<< HEAD
-# ======================== 主程序入口 ========================
-if __name__ == "__main__":
-    gtfs_folder = "../DataSet/"
-=======
 if __name__ == "__main__":
     gtfs_folder = "./DataSet/"
->>>>>>> 7e7d846 (Initial commit)
     output_dir = "./outputs/"
     os.makedirs(output_dir, exist_ok=True)
 
@@ -228,10 +200,6 @@ if __name__ == "__main__":
     pipeline.save_data(subG, "city_circle")
     pos = pipeline.visualize(subG, "city_circle")
 
-<<<<<<< HEAD
-    # 级联失效模拟示范（以 Central Station 失效开始）
-=======
->>>>>>> 7e7d846 (Initial commit)
     initial_fail = ["Central Station"]
     history = pipeline.simulate_cascading_failure(subG, initial_fail, threshold=0.4)
     pipeline.visualize_cascading_gif(subG, history, pos, "city_circle")
